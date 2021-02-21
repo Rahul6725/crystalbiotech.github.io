@@ -1,4 +1,17 @@
 /* ========================================================================
    Use this file to add custom CSS easily
    ========================================================================== */
+   
+   /* #73AD21 */
 
+.center {
+   margin: 20px auto;
+   width: 100%;
+   border: 3px solid #019b4c;
+   padding: 15px;
+ }
+
+ .center h3 {
+    margin: 0px;
+    padding: 0px;
+ }
